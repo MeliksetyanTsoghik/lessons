@@ -15,7 +15,6 @@ class RegisterActivity : AppCompatActivity() {
 
     private var errorT: TextView? = null
 
-// todo add url field
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_registr)
